@@ -1,0 +1,6 @@
+projectKey=FinaleTest
+serverUrl=http://localhost:9000
+serverVersion=10.5.1.90531
+dashboardUrl=http://localhost:9000/dashboard?id=FinaleTest
+ceTaskId=1d382dbc-1a64-4864-9e8e-623d12daf8cb
+ceTaskUrl=http://localhost:9000/api/ce/task?id=1d382dbc-1a64-4864-9e8e-623d12daf8cb
